@@ -1,9 +1,5 @@
 remote_theme: daattali/beautiful-jekyll
 
-title: "N5RAD's Ham Radio Page"
-description: "Ham Sats · HF · CW · Antenna Building"
-author: Ryan Deaton - N5RAD
-
 url: "https://thephiguy.github.io"
 baseurl: "/n5rad.github.io"
 
