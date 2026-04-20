@@ -1,17 +1,19 @@
 remote_theme: daattali/beautiful-jekyll
 
 title: N5RAD's Ham Radio Page
-description: Ham Sats, HF, CW and Antenna Building
+description: "Ham Sats, HF, CW and Antenna Building"
 author: Ryan Deaton - N5RAD
-#url: https://n5rad.com
 
-# Social links (put your callsign lookup or QRZ in the url field)
-#social-network-links:
-#  email: ""
-#  github: yourusername
+url: "https://thephiguy.github.io/n5rad.github.io/"
+baseurl: ""
 
 navbar-col: "#2c3e50"
 navbar-text-col: "#ffffff"
+navbar-border-col: "#2c3e50"
+
+footer-col: "#2c3e50"
+footer-text-col: "#ffffff"
+footer-link-col: "#aaaaaa"
 
 navbar-links:
   Shack: "shack"
@@ -21,3 +23,7 @@ navbar-links:
     - QRZ.com: "https://www.qrz.com"
     - DXWatch: "https://www.dxwatch.com"
   About: "aboutme"
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
