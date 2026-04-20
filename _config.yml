@@ -12,8 +12,8 @@ navbar-col: "#2c3e50"
 navbar-text-col: "#ffffff"
 
 navbar-links:
-  Home: ""
-  Shack: "Equipment"
-  Logbook: "Ham Sats"
-  POTA: "Antenna Building"
-  About: "About Me"
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
