@@ -7,6 +7,9 @@ author: Ryan Deaton - N5RAD
 url: "https://thephiguy.github.io"
 baseurl: "/n5rad.github.io"
 
+header-col: "#34495e"
+header-text-col: "#ffffff"
+
 navbar-col: "#2c3e50"
 navbar-text-col: "#ffffff"
 navbar-border-col: "#2c3e50"
