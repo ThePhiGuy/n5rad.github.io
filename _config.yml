@@ -7,22 +7,18 @@ author: Ryan Deaton - N5RAD
 url: "https://thephiguy.github.io"
 baseurl: "/n5rad.github.io"
 
-header-col: "#34495e"
+header-col: "#CC0000"
 header-text-col: "#ffffff"
-
-navbar-col: "#2c3e50"
+navbar-col: "#990000"
 navbar-text-col: "#ffffff"
-navbar-border-col: "#2c3e50"
-footer-col: "#2c3e50"
+navbar-border-col: "#990000"
+footer-col: "#990000"
 footer-text-col: "#ffffff"
 
 navbar-links:
-  Shack: "shack"
-  Logbook: "logbook"
-  POTA: "pota"
-  Links:
-    - QRZ.com: "https://www.qrz.com"
-    - DXWatch: "https://www.dxwatch.com"
+  Satellites: "Satellites"
+  Antennas: "Antennas"
+  Equipment: "Equipment"
   About: "aboutme"
 
 site-css:
