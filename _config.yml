@@ -10,3 +10,10 @@ url: https://n5rad.com
 
 navbar-col: "#2c3e50"
 navbar-text-col: "#ffffff"
+
+navbar-links:
+  Home: ""
+  Shack: "Equipment"
+  Logbook: "Ham Sats"
+  POTA: "Antenna Building"
+  About: "About Me"
