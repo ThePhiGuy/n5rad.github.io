@@ -1,27 +1,31 @@
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: daattali/beautiful-jekyll
 
 title: "N5RAD's Ham Radio Page"
 description: "Ham Sats · HF · CW · Antenna Building"
-author:
-  name: "Ryan Deaton"
-  bio: "N5RAD — Extra Class"
-  location: "EN72/EM13PE"
+author: Ryan Deaton - N5RAD
 
-minimal_mistakes_skin: "dark"
+url: "https://thephiguy.github.io"
+baseurl: "/n5rad.github.io"
 
 navbar-col: "#2c3e50"
+navbar-text-col: "#ffffff"
+navbar-border-col: "#2c3e50"
+footer-col: "#2c3e50"
+footer-text-col: "#ffffff"
+
+navbar-links:
+  Shack: "shack"
+  Logbook: "logbook"
+  POTA: "pota"
+  Links:
+    - QRZ.com: "https://www.qrz.com"
+    - DXWatch: "https://www.dxwatch.com"
+  About: "aboutme"
+
+site-css:
+  - "/n5rad.github.io/assets/css/custom-styles.css"
 
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-
-navigation:
-  - title: "Shack"
-    url: /shack/
-  - title: "Logbook"
-    url: /logbook/
-  - title: "POTA"
-    url: /pota/
-  - title: "About"
-    url: /about/
