@@ -12,8 +12,10 @@ navbar-col: "#2c3e50"
 navbar-text-col: "#ffffff"
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Shack: "shack"
+  Logbook: "logbook"
+  POTA: "pota"
+  Links:
+    - QRZ.com: "https://www.qrz.com"
+    - DXWatch: "https://www.dxwatch.com"
+  About: "aboutme"
