@@ -1,3 +1,12 @@
-theme: jekyll-theme-minimal
-title: N5RAD's Ham Radio Homepage
-description: N5RAD's Personal Ham Radio Page with Details of Projects and other involvement in Ham Radio
+title: N5RAD's Ham Radio Page
+description: Ham Sats, HF, CW and Antenna Building
+author: Ryan Deaton - N5RAD
+url: https://n5rad.com
+
+# Social links (put your callsign lookup or QRZ in the url field)
+#social-network-links:
+#  email: ""
+#  github: yourusername
+
+navbar-col: "#2c3e50"
+navbar-text-col: "#ffffff"
